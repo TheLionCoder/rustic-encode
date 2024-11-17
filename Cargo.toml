@@ -1,0 +1,10 @@
+[package]
+name = "rustic-encode"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.3.1"
+encoding_rs = "0.8.35"
+rayon = "1.10.0"
+walkdir = "2.5.0"
